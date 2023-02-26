@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "63fb3012f3a8d268e4396d88"
+  },
+  "author": "James Clear",
+  "harga": 120000,
+  "nama": "Atomic Habits",
+  "stock": 30,
+  "tags": "Self Improvements"
+},{
+  "_id": {
+    "$oid": "63fb302ff3a8d268e4396da2"
+  },
+  "author": "Eckhart Tolle",
+  "harga": 80000,
+  "nama": "The Power of Now",
+  "stock": 10,
+  "tags": "Spirituality"
+},{
+  "_id": {
+    "$oid": "63fb302ff3a8d268e4396da4"
+  },
+  "author": "Paulo Coelho",
+  "harga": 110000,
+  "nama": "The Alchemist",
+  "stock": 3,
+  "tags": "Fiction"
+},{
+  "_id": {
+    "$oid": "63fb302ff3a8d268e4396da6"
+  },
+  "author": "Yuval Noah Harari",
+  "harga": 140000,
+  "nama": "Sapiens: A Brief History of Humankind",
+  "stock": 7,
+  "tags": "History"
+},{
+  "_id": {
+    "$oid": "63fb302ff3a8d268e4396da8"
+  },
+  "author": "Daniel Kahneman",
+  "harga": 120000,
+  "nama": "Thinking, Fast and Slow",
+  "stock": 5,
+  "tags": "Psychology"
+},{
+  "_id": {
+    "$oid": "63fb302ff3a8d268e4396daa"
+  },
+  "author": "Stephen Covey",
+  "harga": 119000,
+  "nama": "The 7 Habits of Highly Effective People",
+  "stock": 3,
+  "tags": "Self-Improvement"
+}]
